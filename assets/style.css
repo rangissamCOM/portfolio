@@ -37,7 +37,7 @@ p{margin:0}
 
 .who{background:var(--bg);border:1px solid var(--border);border-radius:var(--r-lg);padding:16px;display:flex;flex-direction:column;gap:12px}
 .who-row{display:flex;align-items:center;gap:12px}
-.avatar{width:48px;height:48px;border-radius:50%;background:var(--subtle);color:var(--primary);display:grid;place-items:center;font-weight:700;font-size:19px;flex:none}
+.avatar{width:48px;height:48px;flex:none;display:block}
 .who-name{font-size:17px;font-weight:700}
 .btn-line{display:flex;align-items:center;justify-content:center;gap:6px;min-height:44px;border-radius:var(--r);background:#fff;border:1px solid var(--input-border);color:var(--link);font-weight:700;font-size:14px;text-decoration:none}
 
